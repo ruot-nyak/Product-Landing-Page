@@ -1,0 +1,20 @@
+.navbar {
+    padding: 1rem;
+    background-color: teal;
+  }
+  .btn-primary:hover {
+    background-color: navy;
+    color: white;
+  }
+
+  .hero-background-img {
+    background-image: url("daniel-sessler-eDJ7px1nkkE-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px;
+  }
+  .hero-text, .lead{
+      color:black
+  }
